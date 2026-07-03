@@ -1,0 +1,14 @@
+.env
+.env.*
+node_modules/
+dist/
+build/
+.DS_Store
+Thumbs.db
+
+# Local AI/Codex workspace context
+.ai/
+
+# Local visual check captures
+desktop-check.png
+mobile-check.png
